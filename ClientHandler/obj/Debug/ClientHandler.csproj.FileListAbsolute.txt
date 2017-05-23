@@ -1,0 +1,6 @@
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\bin\Debug\ClientHandler.exe.config
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\obj\Debug\ClientHandler.csprojResolveAssemblyReference.cache
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\bin\Debug\ClientHandler.exe
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\bin\Debug\ClientHandler.pdb
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\obj\Debug\ClientHandler.exe
+C:\Users\Mathias\Desktop\ClientHandler\ClientHandler\ClientHandler\obj\Debug\ClientHandler.pdb
